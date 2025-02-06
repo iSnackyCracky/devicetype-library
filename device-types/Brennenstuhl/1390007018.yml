@@ -1,0 +1,39 @@
+---
+manufacturer: Brennenstuhl
+model: 'Alu-Line 19" Steckdosenleiste 8-fach'
+slug: brennenstuhl-1390007018
+part_number: '1390007018'
+u_height: 1
+is_full_depth: false
+airflow: passive
+weight: 0.71
+weight_unit: kg
+comments: '[Alu-Line 19" Steckdosenleiste 8-fach (Mehrfachsteckdose mit Schalter, 2m Kabel und aus hochwertigem Aluminium)](https://www.brennenstuhl.com/de-DE/produkte/steckdosenleisten/alu-line-19-steckdosenleiste-fuer-schaltschraenke-8-fach-schwarz-silber-2m-h05vv-f-3g1-5-mit-schalter)'
+power-ports:
+  - name: Power 1
+    type: ita-f
+power-outlets:
+  - name: Outlet 1
+    type: ita-f
+    power_port: Power 1
+  - name: Outlet 2
+    type: ita-f
+    power_port: Power 1
+  - name: Outlet 3
+    type: ita-f
+    power_port: Power 1
+  - name: Outlet 4
+    type: ita-f
+    power_port: Power 1
+  - name: Outlet 5
+    type: ita-f
+    power_port: Power 1
+  - name: Outlet 6
+    type: ita-f
+    power_port: Power 1
+  - name: Outlet 7
+    type: ita-f
+    power_port: Power 1
+  - name: Outlet 8
+    type: ita-f
+    power_port: Power 1
